@@ -1,1 +1,1 @@
-This is arguably Lim's first git project.
+This is yet another Lim's first git project.
